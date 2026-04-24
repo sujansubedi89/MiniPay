@@ -306,4 +306,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Built by **your-username** — feel free to fork, star ⭐, and contribute!
+Built by sujan subedi — feel free to fork, star ⭐, and contribute!
