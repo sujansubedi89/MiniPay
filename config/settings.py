@@ -2,7 +2,7 @@ from pathlib import Path
 from datetime import timedelta
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-SECRET_KEY = 'django-insecure-change-this-in-production-use-env-variable'
+SECRET_KEY = config('secret')
 DEBUG = True
 ALLOWED_HOSTS = ['*']
 
